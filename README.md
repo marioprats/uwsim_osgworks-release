@@ -1,3 +1,24 @@
+## uwsim_osgworks (jade) - 3.0.3-0
+
+The packages in the `uwsim_osgworks` repository were released into the `jade` distro by running `/usr/bin/bloom-release uwsim_osgworks --track jade --rosdistro jade --new-track` on `Thu, 17 Sep 2015 23:59:14 -0000`
+
+The `uwsim_osgworks` package was released.
+
+Version of package(s) in repository `uwsim_osgworks`:
+- upstream repository: https://github.com/uji-ros-pkg/uwsim_osgworks.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `3.0.3-0`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.2`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.37`
+
+
 ## uwsim_osgworks (indigo) - 3.0.3-0
 
 The packages in the `uwsim_osgworks` repository were released into the `indigo` distro by running `/usr/bin/bloom-release uwsim_osgworks --track indigo --rosdistro indigo --new-track` on `Thu, 11 Sep 2014 09:23:41 -0000`
