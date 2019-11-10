@@ -1,3 +1,26 @@
+## uwsim_osgworks (melodic) - 3.0.3-2
+
+The packages in the `uwsim_osgworks` repository were released into the `melodic` distro by running `/usr/local/bin/bloom-release --rosdistro melodic --track melodic uwsim_osgworks --edit` on `Sun, 10 Nov 2019 20:08:29 -0000`
+
+The `uwsim_osgworks` package was released.
+
+Version of package(s) in repository `uwsim_osgworks`:
+
+- upstream repository: https://github.com/uji-ros-pkg/uwsim_osgworks.git
+- release repository: https://github.com/uji-ros-pkg/uwsim_osgworks-release.git
+- rosdistro version: `3.0.3-1`
+- old version: `3.0.3-1`
+- new version: `3.0.3-2`
+
+Versions of tools used:
+
+- bloom version: `0.8.0`
+- catkin_pkg version: `0.4.14`
+- rosdep version: `0.17.1`
+- rosdistro version: `0.7.5`
+- vcstools version: `0.1.40`
+
+
 ## uwsim_osgworks (melodic) - 3.0.3-1
 
 The packages in the `uwsim_osgworks` repository were released into the `melodic` distro by running `/usr/bin/bloom-release uwsim_osgworks --rosdistro melodic` on `Sat, 12 Oct 2019 07:30:23 -0000`
